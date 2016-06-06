@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Veterinaria</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="telefono">Ingresa tu Telefono</string>
+    <string name="email">Ingresa tu Email</string>
+    <string name="descripcion">Descripcion de Contacto</string>
+    <string name="botonverificar">Verificar Datos</string>
+
+    <string name="datoconfirmar">Confirmar Datos</string>
+    <string name="datonombre">Nombre del Usuario</string>
+    <string name="datotelefono">Telefono del Usuario</string>
+    <string name="datoemail">Email del Usuario</string>
+    <string name="datodescripcion">Descripcion del Usuario</string>
+    <string name="datofecha">Fecha del Usuario</string>
+    <string name="botoneditar">Editar Datos</string>
+
+
+
+
+
+
+
+</resources>
